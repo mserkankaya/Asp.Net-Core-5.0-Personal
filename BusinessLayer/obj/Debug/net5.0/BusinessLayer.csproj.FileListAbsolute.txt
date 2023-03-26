@@ -1,0 +1,40 @@
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

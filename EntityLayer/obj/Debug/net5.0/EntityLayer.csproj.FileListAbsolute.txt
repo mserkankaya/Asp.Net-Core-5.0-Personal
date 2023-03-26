@@ -1,0 +1,30 @@
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+D:\Visual Studio Projects\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\PC\Desktop\Core_Proje\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
