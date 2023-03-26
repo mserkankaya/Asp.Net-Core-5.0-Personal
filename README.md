@@ -40,4 +40,4 @@ Technologies used in the project:
 *   Ajax
 *   User Roles
 
-![alt text](https://www.hizliresim.com/joul648)
+![My Remote Image](https://www.hizliresim.com/joul648)
