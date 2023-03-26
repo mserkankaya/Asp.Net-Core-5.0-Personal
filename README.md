@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/serkanky/Asp.Net-Core-5.0-Personal/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Bireysel iş talepleri ve işbirlikleri için kodlandı.</p>
+<p id="description">Coded for individual business demands and collaborations.</p>
 
   
   
