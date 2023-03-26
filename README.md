@@ -40,5 +40,16 @@ Technologies used in the project:
 *   Ajax
 *   User Roles
 
+User Page
+
+
 ![WhatsApp Image 2023-03-26 at 20 01 34](https://user-images.githubusercontent.com/124188116/227801546-fa1f08a1-c7fd-40ce-b3f6-13f47a663918.jpeg)
+
+
+
+Admin Page
+
+
+![WhatsApp Image 2023-03-26 at 20 01 34 (1)](https://user-images.githubusercontent.com/124188116/227801574-8e02c0d7-2c8e-4a0f-9d2f-f321d912eaac.jpeg)
+
 
