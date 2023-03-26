@@ -11,15 +11,15 @@
 Here're some of the project's best features:
 
 *   SignIn- SignUp - SignOut
-*   About me
-*   Service List
-*   Skill List
-*   Project List
-*   Experience List
-*   Contact
-*   References
-*   Writer Panel
-*   Message System
+*   About me 💫 INSERT - DELETE - UPDATE
+*   Service List 💫 INSERT - DELETE - UPDATE
+*   Skill List 💫 INSERT - DELETE - UPDATE
+*   Project List 💫 INSERT - DELETE - UPDATE
+*   Experience List 💫 INSERT - DELETE - UPDATE
+*   Contact 💫 INSERT - DELETE - UPDATE
+*   References 💫 INSERT - DELETE - UPDATE
+*   Writer Panel 
+*   Message System 
 
   
   
@@ -39,3 +39,5 @@ Technologies used in the project:
 *   Linq
 *   Ajax
 *   User Roles
+
+![alt text](https://www.hizliresim.com/joul648)
