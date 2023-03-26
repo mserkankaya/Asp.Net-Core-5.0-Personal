@@ -40,4 +40,5 @@ Technologies used in the project:
 *   Ajax
 *   User Roles
 
-![My Remote Image](https://www.hizliresim.com/joul648)
+![WhatsApp Image 2023-03-26 at 20 01 34](https://user-images.githubusercontent.com/124188116/227801546-fa1f08a1-c7fd-40ce-b3f6-13f47a663918.jpeg)
+
